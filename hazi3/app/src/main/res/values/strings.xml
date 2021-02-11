@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Hazi3</string>
+    <string name="app_name">hazi4</string>
+    <string name="textview">TextView</string>
 </resources>
